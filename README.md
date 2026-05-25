@@ -17,12 +17,11 @@
 
 | AI Expert | Pest Detection | Drone Capture |
 |---|---|---|
-| ![AI Expert](images/Screenshot%202026-05-25%20113344.png) | ![Pest Detection](images/Screenshot%202026-05-25%20113356.png) | ![Drone Capture](images/Screenshot%202026-05-25%20113401.png) |
+| ![AI Expert](images/Screenshot%202026-05-25%20113344.png) | ![Pest Detection](images/Screenshot%202026-05-25%20113356.png) |![Home](images/Screenshot%202026-05-25%20113417.png) |
 
 | Agri Market | Farm Health Grid | My Profile |
 |---|---|---|
-| ![Market](images/Screenshot%202026-05-25%20113321.png) | ![Farm Grid](images/Screenshot%202026-05-25%20112434.png) | ![Profile](images/Screenshot%202026-05-25%20113412.png) |
-
+|  ![Drone Feed](images/Screenshot%202026-05-25%20113338.png)  | ![Farm Grid](images/Screenshot%202026-05-25%20112434.png) |![Home](images/Screenshot%202026-05-25%20113417.png) |
 ---
 
 ## 🚀 What is AgriNova?
