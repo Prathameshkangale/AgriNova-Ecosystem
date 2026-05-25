@@ -13,7 +13,7 @@
 
 | Drone Control | Live Farm Monitor | Live Drone Feed |
 |---|---|---|
-| ![Drone Control](images/Screenshot%202026-05-25%20113325.png) | ![Live Monitor](images/Screenshot%202026-05-25%20113334.png) | ![Drone Feed](images/Screenshot%202026-05-25%20113338.png) |
+| ![Drone Control](images/Screenshot%202026-05-25%20113325.png) | ![Live Monitor](images/Screenshot%202026-05-25%20113334.png) | ![Drone Feed](images/Screenshot%202026-05-25%20113401.png) |
 
 | AI Expert | Pest Detection | Drone Capture |
 |---|---|---|
