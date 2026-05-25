@@ -17,7 +17,7 @@
 
 | AI Expert | Pest Detection | Drone Capture |
 |---|---|---|
-| ![AI Expert](images/Screenshot%202026-05-25%20113344.png) | ![Pest Detection](images/Screenshot%202026-05-25%20113356.png) |![Home](images/Screenshot%202026-05-25%20113417.png) |
+| ![AI Expert](images/Screenshot%202026-05-25%20113344.png) | ![Pest Detection](images/Screenshot%202026-05-25%20113356.png) |![Home](images/Screenshot%202026-05-25%20113412.png) |
 
 | Agri Market | Farm Health Grid | My Profile |
 |---|---|---|
