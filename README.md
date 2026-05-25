@@ -7,9 +7,21 @@
 
 ## 📱 App Screenshots
 
-| Home Dashboard | Drone Control | Live Farm Grid | Pest Detection | AI Expert | Agri Market |
-|---|---|---|---|---|---|
-| Weather, Crops, Tips | Capture, Stream, Scan | 7×7 Tree Health Map | Gallery Scan | AI Diagnosis | Seeds, Pesticides |
+| Language Selection | Login | Home Dashboard |
+|---|---|---|
+| ![Language](images/Screenshot%202026-05-25%20113307.png) | ![Login](images/Screenshot%202026-05-25%20113315.png) | ![Home](images/Screenshot%202026-05-25%20113417.png) |
+
+| Drone Control | Live Farm Monitor | Live Drone Feed |
+|---|---|---|
+| ![Drone Control](images/Screenshot%202026-05-25%20113325.png) | ![Live Monitor](images/Screenshot%202026-05-25%20113334.png) | ![Drone Feed](images/Screenshot%202026-05-25%20113338.png) |
+
+| AI Expert | Pest Detection | Drone Capture |
+|---|---|---|
+| ![AI Expert](images/Screenshot%202026-05-25%20113344.png) | ![Pest Detection](images/Screenshot%202026-05-25%20113356.png) | ![Drone Capture](images/Screenshot%202026-05-25%20113401.png) |
+
+| Agri Market | Farm Health Grid | My Profile |
+|---|---|---|
+| ![Market](images/Screenshot%202026-05-25%20113321.png) | ![Farm Grid](images/Screenshot%202026-05-25%20112434.png) | ![Profile](images/Screenshot%202026-05-25%20113412.png) |
 
 ---
 
