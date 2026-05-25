@@ -66,7 +66,7 @@ Raspberry Pi 4  ←→  YOLOv8 Model (Edge AI)
 - **Detection Logging** — All detections saved as images + JSON with GPS + Google Maps link
 
 ### 🗺️ Farm Grid
-- **Live 7×7 Tree Health Map** — Each tree shown as Affected / Healthy / Pending
+- **Live Custom  Tree Health Map** — Each tree shown as Affected / Healthy / Pending input is taken from farm
 - **Configurable Grid** — Set rows, columns, frames per tree, and detection threshold at runtime
 - **Auto-refreshes every 5 seconds** — Live updates as drone scans the farm
 - **Visual Web Dashboard** — Flask serves a live HTML grid page
