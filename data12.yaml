@@ -1,0 +1,8 @@
+train: /content/ag/train/images
+val: /content/ag/valid/images
+
+nc: 3
+names:
+  - Powdery_mildew
+  - Downy_mildew
+  - Tea_leafblight
