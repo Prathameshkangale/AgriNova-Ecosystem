@@ -43,7 +43,7 @@ Raspberry Pi 4  ←→  YOLOv8 Model (Edge AI)
         ↓
   Android Mobile App
   ├── Live Drone Feed (MJPEG Stream)
-  ├── Real-Time Farm Grid (7×7 Tree Map)
+  ├── Real-Time Farm Grid (Farm Tree Map)
   ├── Gallery Scan (Plantix-style)
   ├── AI Expert Diagnosis
   ├── Agri Market
